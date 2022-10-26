@@ -23,4 +23,4 @@ pip install pandas==1.4.2
 pip install numpy==1.21.6
 pip install scikit-learn==0.24.1
 
-[APP Klasifikasi Iris Metode Logistic Regression] (https://deploy-goldfarb2.herokuapp.com/)
+[APP Klasifikasi Iris Metode Logistic Regression](https://deploy-goldfarb2.herokuapp.com/)
